@@ -1,0 +1,12 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@300&display=swap');
+
+#root, body, html {
+    height: 100%;
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+body{
+    background: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url('./images/jason-leung-SAYzxuS1O3M-unsplash.jpg');
+    background-size: cover;
+}
